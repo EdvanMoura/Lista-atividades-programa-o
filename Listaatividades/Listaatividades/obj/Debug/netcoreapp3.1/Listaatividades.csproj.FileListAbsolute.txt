@@ -1,0 +1,14 @@
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.csproj.AssemblyReference.cache
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.AssemblyInfoInputs.cache
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.AssemblyInfo.cs
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.csproj.CoreCompileInputs.cache
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\bin\Debug\netcoreapp3.1\Listaatividades.exe
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\bin\Debug\netcoreapp3.1\Listaatividades.deps.json
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\bin\Debug\netcoreapp3.1\Listaatividades.runtimeconfig.json
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\bin\Debug\netcoreapp3.1\Listaatividades.runtimeconfig.dev.json
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\bin\Debug\netcoreapp3.1\Listaatividades.dll
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\bin\Debug\netcoreapp3.1\Listaatividades.pdb
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.dll
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.pdb
+C:\Users\edvan\source\repos\Listaatividades\Listaatividades\obj\Debug\netcoreapp3.1\Listaatividades.genruntimeconfig.cache
